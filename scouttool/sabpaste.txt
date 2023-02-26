@@ -1,0 +1,494 @@
+=== [gen7ou] SPL sab Scouting/ Team 1 ===
+
+Mawile 
+- SuckerPunch 
+
+Gliscor 
+- Toxic 
+- Earthquake 
+
+Chansey 
+- StealthRock 
+- ThunderWave 
+- SeismicToss 
+- Soft-Boiled 
+
+Magnezone 
+- VoltSwitch 
+
+Slowbro 
+- Scald 
+- IceBeam 
+
+Kartana 
+-  
+
+=== [gen7ou] SPL sab Scouting/ Team 2 ===
+
+Kommo-o 
+- ClangorousSoulblaze 
+- Flamethrower 
+- ClangingScales 
+
+Diancie 
+- Substitute 
+- Endeavor 
+- DiamondStorm 
+- StealthRock 
+
+Volcarona 
+- QuiverDance 
+- BugBuzz 
+
+Magearna 
+- Thunderbolt 
+- FleurCannon 
+
+Thundurus-Therian 
+- NastyPlot 
+- Thunderbolt 
+
+Serperior 
+- LeafStorm 
+- Glare 
+- Struggle 
+
+=== [gen7ou] SPL sab Scouting/ Team 3 ===
+
+Magearna 
+-  
+
+Serperior 
+- Substitute 
+- LeechSeed 
+- Glare 
+- LeafStorm 
+
+Landorus-Therian 
+- StealthRock 
+
+Latias 
+- Recover 
+- IceBeam 
+
+Magnezone 
+- VoltSwitch 
+- HiddenPower 
+- Thunderbolt 
+
+Toxapex 
+- Scald 
+
+=== [gen7ou] SPL sab Scouting/ Team 4 ===
+
+Excadrill 
+- StealthRock 
+- RapidSpin 
+- Earthquake 
+- RockTomb 
+
+Serperior 
+- Reflect 
+- LightScreen 
+- LeafStorm 
+- Glare 
+
+Dragonite 
+- IcePunch 
+- DragonDance 
+- Superpower 
+
+Tapu Koko 
+- DazzlingGleam 
+
+Magearna 
+- CalmMind 
+- TwinkleTackle 
+- FleurCannon 
+
+Tyranitar 
+- Substitute 
+- StoneEdge 
+- DragonDance 
+- FirePunch 
+
+=== [gen7ou] SPL sab Scouting/ Team 5 ===
+
+Kommo-o 
+- StealthRock 
+- DrainPunch 
+
+Gliscor 
+- Earthquake 
+- Roost 
+- SwordsDance 
+- Facade 
+
+Magearna 
+- CalmMind 
+- Thunderbolt 
+- FleurCannon 
+- All-OutPummeling 
+
+Latias 
+- ThunderWave 
+- Roost 
+- Defog 
+- IceBeam 
+
+Toxapex 
+- Scald 
+- Haze 
+- BanefulBunker 
+- Recover 
+
+Weavile 
+- IcicleCrash 
+
+=== [gen7ou] SPL sab Scouting/ Team 6 ===
+
+Pinsir 
+- Substitute 
+- SwordsDance 
+- CloseCombat 
+- Frustration 
+
+Chansey 
+- StealthRock 
+- ThunderWave 
+- Soft-Boiled 
+- SeismicToss 
+
+Kartana 
+- KnockOff 
+- Synthesis 
+- LeafBlade 
+- BloomDoom 
+- Defog 
+
+Reuniclus 
+- Psyshock 
+- CalmMind 
+
+Gliscor 
+- Defog 
+- U-turn 
+- Earthquake 
+- Roost 
+
+Magnezone 
+- VoltSwitch 
+
+=== [gen7ou] SPL sab Scouting/ Team 7 ===
+
+Pelipper 
+- Scald 
+
+Swampert 
+- Earthquake 
+- Waterfall 
+
+Ferrothorn 
+- PowerWhip 
+
+Greninja 
+-  
+
+Tornadus-Therian 
+- Hurricane 
+- U-turn 
+
+Manaphy 
+- HydroVortex 
+- Psychic 
+- Surf 
+
+=== [gen7ou] SPL sab Scouting/ Team 8 ===
+
+Gliscor 
+- Earthquake 
+- Roost 
+- Defog 
+
+Slowbro 
+- Scald 
+
+Chansey 
+- SeismicToss 
+- ThunderWave 
+- Wish 
+
+Weavile 
+- Pursuit 
+- KnockOff 
+
+Tangrowth 
+- HiddenPower 
+
+Heatran 
+-  
+
+=== [gen7ou] SPL sab Scouting/ Team 9 ===
+
+Kommo-o 
+- DrainPunch 
+- StealthRock 
+- Toxic 
+
+Gliscor 
+- SwordsDance 
+- Earthquake 
+- IceFang 
+- Roost 
+
+Toxapex 
+- Toxic 
+
+Lopunny 
+- IcePunch 
+- Return 
+- HighJumpKick 
+- FakeOut 
+
+Tornadus-Therian 
+- Defog 
+- Hurricane 
+- KnockOff 
+- Superpower 
+
+Jirachi 
+- BodySlam 
+- Wish 
+- IronHead 
+- Protect 
+
+=== [gen7ou] SPL sab Scouting/ Team 10 ===
+
+Kommo-o 
+- StealthRock 
+
+Magnezone 
+- HiddenPower 
+
+Scizor 
+- U-turn 
+- Pursuit 
+- Roost 
+- BulletPunch 
+
+Rotom-Wash 
+- VoltSwitch 
+- Defog 
+- PainSplit 
+- HydroVortex 
+
+Gliscor 
+- SwordsDance 
+- Roost 
+- Facade 
+- Earthquake 
+
+Weavile 
+- KnockOff 
+- Pursuit 
+
+=== [gen7ou] SPL sab Scouting/ Team 11 ===
+
+Hippowdon 
+- StealthRock 
+
+Toxapex 
+- Toxic 
+- ToxicSpikes 
+- Recover 
+- Scald 
+
+Serperior 
+- LeafStorm 
+- HiddenPower 
+- Glare 
+- Rest 
+
+Celesteela 
+- LeechSeed 
+- Protect 
+
+Excadrill 
+- RapidSpin 
+- Earthquake 
+- CorkscrewCrash 
+
+Garchomp 
+- Earthquake 
+- DragonClaw 
+
+=== [gen7ou] SPL sab Scouting/ Team 12 ===
+
+Kommo-o 
+-  
+
+Lopunny 
+- Substitute 
+- Return 
+
+Magearna 
+- IronHead 
+- VoltSwitch 
+- FleurCannon 
+
+Rotom-Wash 
+- Will-O-Wisp 
+- VoltSwitch 
+
+Kartana 
+- SmartStrike 
+
+Landorus-Therian 
+- U-turn 
+- StoneEdge 
+
+=== [gen7ou] SPL sab Scouting/ Team 13 ===
+
+Tyranitar 
+- IcePunch 
+- StealthRock 
+- Crunch 
+
+Keldeo 
+- Scald 
+
+Tornadus-Therian 
+- U-turn 
+- Toxic 
+- HeatWave 
+
+Magearna 
+- Thunderbolt 
+
+Reuniclus 
+- Psyshock 
+
+Excadrill 
+- IronHead 
+
+=== [gen7ou] SPL sab Scouting/ Team 14 ===
+
+Tyranitar 
+- StealthRock 
+
+Keldeo 
+- Rest 
+
+Tornadus-Therian 
+- Toxic 
+- U-turn 
+- HeatWave 
+
+Magearna 
+- FleurCannon 
+
+Reuniclus 
+- Recover 
+- CalmMind 
+- All-OutPummeling 
+- Psyshock 
+
+Excadrill 
+- IronHead 
+- RockSlide 
+
+=== [gen7ou] SPL sab Scouting/ Team 15 ===
+
+Tyranitar 
+- StealthRock 
+
+Garchomp 
+- AquaTail 
+
+Tornadus-Therian 
+- KnockOff 
+- Toxic 
+- HeatWave 
+- U-turn 
+
+Slowbro 
+-  
+
+Magearna 
+- VoltSwitch 
+
+Kartana 
+- LeafBlade 
+- SacredSword 
+
+=== [gen7ou] SPL sab Scouting/ Team 16 ===
+
+Kommo-o 
+- Protect 
+- Toxic 
+- StealthRock 
+
+Tornadus-Therian 
+- U-turn 
+- HeatWave 
+- All-OutPummeling 
+
+Magearna 
+- FleurCannon 
+
+Latias 
+- IceBeam 
+
+Toxapex 
+- BanefulBunker 
+
+Krookodile 
+- Pursuit 
+- Earthquake 
+
+=== [gen7ou] SPL sab Scouting/ Team 17 ===
+
+Tyranitar 
+- Crunch 
+
+Keldeo 
+- CalmMind 
+- Scald 
+
+Tornadus-Therian 
+- U-turn 
+- Toxic 
+- HeatWave 
+
+Magearna 
+- FleurCannon 
+
+Reuniclus 
+-  
+
+Excadrill 
+- IronHead 
+
+=== [gen7ou] SPL sab Scouting/ Team 18 ===
+
+Garchomp 
+- StealthRock 
+- Earthquake 
+- Flamethrower 
+
+Medicham 
+- BulletPunch 
+
+Tangrowth 
+- KnockOff 
+
+Jirachi 
+- IronHead 
+- U-turn 
+
+Tapu Fini 
+-  
+
+Tornadus-Therian 
+-  
+
