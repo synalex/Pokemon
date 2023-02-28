@@ -1,7 +1,7 @@
 ###########################################
-# Version: 1.0.3 
+# Version: 1.0.4 
 # Author: sylvi
-# Last Time edited: 13:09 26.02.2023
+# Last Time edited: 20:20 28.02.2023
 ###########################################
 
 # globals
@@ -127,6 +127,8 @@ def make_usage():
     max_usage = len(teams)
     for key, value in usage.items():
         usage_percentage[key] = f"{round((value / max_usage)*100,2)}%"
+    for k, v in usage_percentage.items():
+        print(f"**{k}** was used _{v}_ in {max_usage} games!")
 
 # global: use of global teams: list [[{pkmn: moves}],...]
 # output: dict {pkmn: {move: usage}}
@@ -139,6 +141,7 @@ def make_usage():
 # Time O(n^3) Yikes..
 
 def make_usage_moves():
+    global usage_moves
     for team in teams:
         for pkmn in team:
             pokemon = list(pkmn.keys())
@@ -146,12 +149,30 @@ def make_usage_moves():
             moves = pkmn.get(pokemon)
             if pokemon not in usage_moves:
                 usage_moves[pokemon] = {}
-                for move in moves:
-                    if move in usage_moves[pokemon]:
+            for move in moves:
+                if move in [""]:
+                        break
+                if move in usage_moves[pokemon]:
                             count = usage_moves[pokemon].get(move)
                             usage_moves[pokemon][move] = count + 1
-                    else:
-                        usage_moves[pokemon][move] = 1
+                else:
+                    usage_moves[pokemon][move] = 1
+    for key, val in usage_moves.items():
+        usage_moves[key] = {k: v for k, v in sorted(val.items(), key=lambda item: item[1], reverse= True)}
+    for key, val in usage_moves.items():
+        f = ""
+        for k in val.items():
+            f += f"_{k[0]} {k[1]}x_ , " 
+        f = list(f)
+        try:
+            f[-2] = "!"
+        except:
+            pass
+        f = "".join(f)
+        print(f"**{key}** used {f}")
+
+
+
 
 # global: teams: [[{pkmn: moves}],...], 
 # input: opp: string, gen: string, tour: string
@@ -194,7 +215,7 @@ Kartana
 def paste(opp, tier, tour):
     with open (f"{opp}paste.txt", "w") as f:
         for ind, team in enumerate(teams):
-            f.write(f"=== [{tier}] SPL {opp} Scouting/ {tour} {str(ind+1)} ===\n")
+            f.write(f"=== [{tier}] SPL {opp} Scouting/{tour} {str(ind+1)} ===\n")
             f.write("\n")
             for pkmn in team:    
                 pokemon = list(pkmn.keys())
@@ -214,15 +235,14 @@ def main(opp, alts, tier, tour="Team"):
     make_copy(opp, alts)
     make_teams(opp)
     make_usage()
+    print("\n")
     make_usage_moves()
     paste(opp, tier, tour)
     max_usage = len(teams)
     print(f"Tested on {max_usage} replays!")
     print("--------------------------------")
+    
     print("\n")
-    print(usage_percentage)
-    print("\n")
-    print(usage_moves)
 
 # example run 
 main("sab", ["SABeLLA", "BOOTY", "BARGAIN BOOTY"], "gen7ou")
